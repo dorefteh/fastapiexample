@@ -42,5 +42,6 @@ tzdata==2021.5
 ujson==4.3.0
 urllib3==1.26.8
 uvicorn==0.15.0
+uvloop==0.16.0
 watchgod==0.7
 websockets==10.1
